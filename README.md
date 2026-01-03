@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Node.js" src="https://nodejs.org/static/images/logo.svg" width="160px" />
+  <img alt="Formação Node.js" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/nodejs/node-icon.svg" width="100px" />
 </p>
 
 # 🎫 Support Tickets API (Pure Node.js)
@@ -76,6 +76,7 @@ Content-Type: application/json
 {
   "solution": "Atualização do driver de vídeo e troca da bateria."
 }
+```
 
 ## 🚀 Como Executar
 
